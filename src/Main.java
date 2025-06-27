@@ -1,4 +1,4 @@
-import java.util.Scanner;//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
+import java.util.Scanner; //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 
 public class Main {
@@ -61,6 +61,18 @@ public class Main {
         } catch (Exception e) {
             System.err.println("error :)");
         }
+         */
+
+        /* ejericio 6
+
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("¿Cual es su nombre?");
+        String nombre = scanner.nextLine();
+        System.out.println("¿Cual es su apellido?");
+        String apellido = scanner.nextLine();
+
+        concatenar.nombres(nombre, apellido);
+
          */
 
 
